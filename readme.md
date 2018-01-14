@@ -1,9 +1,14 @@
 # Notepad2
 
-> *A modified version (fork) of Notepad2-mod
+> *A modified version (fork) of zufuliu's Notepad2 base on Notepad2-mod
 
 ## Changes compared to the official Notepad2 or Notepad2-mod:
+New Features:
+* with four editor frames
+* Chinese Simplified project
+* User Can custom fold margin colour
 
+zufuliu's Notepad2 features:
 * Code folding
 * Support for bookmarks
 * Option to mark all occurrences of a word
